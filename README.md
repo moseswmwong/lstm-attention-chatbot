@@ -27,7 +27,7 @@ Model file can be downloaded [here](https://www.dropbox.com/s/6ybgdw6z0miq0nr/mo
 
 2. Change directory to this chatbot program
 
-3. Activate <env_name>, where the env_name is the one you created in Preparation step 1.
+3. Activate <env_name>, where the env_name is the one you created in Preparation step 1. Note that activate is an Anaconda program for you to enable an specific Data Science environment, e.g. Python 3.6 with CUDA 9.0 and Tensorflow 1.10.0
 
 4. Run this command
    - python chat.py models\cornell_movie_dialog\20181223\best_weights_training.ckpt
