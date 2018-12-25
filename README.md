@@ -10,7 +10,7 @@ Model file can be downloaded [here](https://www.dropbox.com/s/6ybgdw6z0miq0nr/mo
 
 1. Install Python, nVidia CUDA drivers, Google Tensorflow on a computer with GPU, e.g. nVidia GeForce GTX 1080, the system is created on a high performance Windows 10 platform using 1 nVidia GeForce GTX 1080, but it should works on Linux system with a high quality nVidia graphic card too. You should be able to run it on a CPU based system without GPU but the performance will not be very good. 
    - Tips: I used article from this link to build the Windows 10 PC and it is highly recommended installation guideline for the target AI system, please note that installing a Deep Learning PC is a complex process, so this installation guideline can save you much time. Click [The Best Way to Install TensorFlow with GPU Support on Windows 10](https://www.pugetsystems.com/labs/hpc/The-Best-Way-to-Install-TensorFlow-with-GPU-Support-on-Windows-10-Without-Installing-CUDA-1187/)
-   - At this point you should be able to run a Python 3.x program under an Anaconda environment you had created, and run Tensorflow without problem. In particular, if you folllow the above installation guideline to build the AI system, you should be able to run the MINST training embedded inside Keras sucessfully and see the TensorBoard report on your browser.
+   - At this point you should be able to run a Python 3.x program under an Anaconda environment you had created, and run Tensorflow without problem. In particular, if you follow the above installation guideline to build the AI system, you should be able to run the MINST training embedded inside Keras sucessfully and see the TensorBoard report on your browser.
 
 2. Download all files from this repository
 
